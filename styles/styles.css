@@ -9,7 +9,7 @@ p {
 body {
   width: 100%;
   height: 100%;
-  font-family: 'Outfit',sans-serif;
+  font-family: 'Kumbh Sans', sans-serif;
   font-size: 12px;
   background: linear-gradient(to bottom,hsl(273, 75%, 66%),hsl(240, 73%, 65%));
   background-color: hsl(240, 73%, 65%);
@@ -18,6 +18,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  color: hsl(238, 29%, 16%);
 }
 
 .faq-container {
@@ -82,8 +83,6 @@ body {
 
 .inside-faq {
   width: 300px;
-  margin-bottom: 10px;
-  margin-top: 10px;
 }
 
 .que {
@@ -93,12 +92,16 @@ body {
 }
 
 .que:hover {
-  color: orange;
+  color: hsl(14, 88%, 65%);
 }
 
 .ans {
   margin-top: 10px;
   color: hsl(240, 6%, 50%);
+}
+
+.arw {
+  margin-right: -10px;
 }
 
 .none {
@@ -124,10 +127,12 @@ span {
 hr {
   width: 100%;
   color:  hsl(240, 5%, 91%);
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 
-@media (max-width: 480px) {
+@media (max-width:480px) {
 
   .faq-container {
     flex-direction: column;
