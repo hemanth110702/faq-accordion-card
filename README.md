@@ -13,23 +13,23 @@ Users should be able to:
 
 ### Screenshot
 **Preview**
-![image](https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/3aaa3472-4da0-4d04-a2a2-6d9e810f87cf)
+<img src="https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/3aaa3472-4da0-4d04-a2a2-6d9e810f87cf" width="800" height="400" />
 
 
 **Active state.**
-![image](https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/2b454e55-5688-42af-95a6-6d4ba8de726f)
+<img src="https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/2b454e55-5688-42af-95a6-6d4ba8de726f" width="800" height="400" />
 
 
 **Onclick.**
-![image](https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/da9f02c1-97ea-4846-b50e-b9241f10a701)
+<img src="https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/da9f02c1-97ea-4846-b50e-b9241f10a701" width="800" height="400" />
 
 
 **Active state of mobile view.**<br>
-![1](https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/ac7b7e71-fbb2-4f78-b796-22263c157e6c)
+<img src="https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/ac7b7e71-fbb2-4f78-b796-22263c157e6c" width="250" height="400" />
 
 
 **Onclick state of mobile view.**<br>
-![2](https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/a682aaac-d702-46d3-b524-03681986f26e)
+<img src="https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/a682aaac-d702-46d3-b524-03681986f26e" width="250" height="400" />
 
 
 ### Links
