@@ -69,6 +69,7 @@ body {
   z-index: 100;
   top: 44%;
   left: -60px;
+  transition: left 1s;
 }
 
 .active {
