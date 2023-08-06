@@ -16,7 +16,6 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
     -   [What I learned](#what-i-learned)
     -   [Continued Development](#continued-development)
 -   [Author](#author)
--   [Acknowledgments](#acknowledgments)
 
 </details>
 
@@ -31,26 +30,47 @@ Users should be able to:
 - Hide/Show the answer to a question when the question is clicked
 
 
-### Screenshot
-**Preview**
-![image](https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/3aaa3472-4da0-4d04-a2a2-6d9e810f87cf)
+### Screenshots
 
-
-**Active state.**
-![image](https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/2b454e55-5688-42af-95a6-6d4ba8de726f)
-
-
-**Onclick.**
-![image](https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/da9f02c1-97ea-4846-b50e-b9241f10a701)
-
-
-**Active state of mobile view.**<br>
-![1](https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/ac7b7e71-fbb2-4f78-b796-22263c157e6c)
-
-
-**Onclick state of mobile view.**<br>
-![2](https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/a682aaac-d702-46d3-b524-03681986f26e)
-
+<table>
+    <tr>
+        <th>Desktop View</th>
+        <th>Mobile View</th>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align: left;font-weight: bold;">Home</td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/3aaa3472-4da0-4d04-a2a2-6d9e810f87cf" width="100%" title="Desktop view - Home"/>
+        </td>
+        <td>
+            <img src="https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/471e4173-75a4-460e-b409-66d22f26fec6" width="100%" title="Mobile view - Home"/>
+        </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align: left;font-weight: bold;">Active state</td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/2b454e55-5688-42af-95a6-6d4ba8de726f" width="100%" title="Desktop view - Active"/>
+        </td>
+        <td>
+            <img src="https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/ac7b7e71-fbb2-4f78-b796-22263c157e6c" width="100%" title="Mobile view - Active"/>
+        </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align: left;font-weight: bold;">Onclick</td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/da9f02c1-97ea-4846-b50e-b9241f10a701" width="100%" title="Desktop view - Onclick"/>
+        </td>
+        <td>
+            <img src="https://github.com/hemanth110702/faq-accordion-card-challenge/assets/89832451/a682aaac-d702-46d3-b524-03681986f26e" width="100%" title="Mobile view - Onclick"/>
+        </td>
+    </tr>
+</table>
 
 ### Links
 
